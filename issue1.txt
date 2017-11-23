@@ -1,3 +1,7 @@
 wadadones
 
+
 #include <stdio.h>
+
+人生
+
